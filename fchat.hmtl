@@ -1,0 +1,18 @@
+
+<html>
+<body>
+<script>
+  window.fcSettings = {
+    token: "649d8959-b5a1-4a7d-9e52-6397a33fa4d3",
+    host: "https://webchat-mrorange.freshpori.com",
+    externalId: "john.doe1987",     // user’s id unique to your system
+    firstName: "John",              // user’s first name
+    lastName: "Doe",                // user’s last name
+    email: "john.doe@gmail.com",    // user’s email address
+    phone: "8668323090",            // phone number without country code
+    phoneCountryCode: "+1"          // phone’s country code
+  };
+</script>
+<script src="https://webchat-mrorange.freshpori.com/js/widget.js" async></script>
+</body>
+</html>
